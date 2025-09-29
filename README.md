@@ -18,6 +18,11 @@ The **Cloudflare Tunnel Wizard** is a Bash script that:
 The script is designed to be **formal, simple, and interactive**, with colorized prompts to make each step clear.
 
 ---
+## EASY-TO-USE
+
+```bash
+curl -sSL https://raw.githubusercontent.com/pedramgholizadeh/cf-tunnel-wizard-script/refs/heads/master/cf-tunnel-wizard.sh | sudo bash
+```
 
 ## 🔹 How to Use
 
