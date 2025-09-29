@@ -29,7 +29,7 @@ curl -sSL https://raw.githubusercontent.com/pedramgholizadeh/cf-tunnel-wizard-sc
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/yourusername/cloudflare-tunnel-wizard.git
+git clone https://github.com/pedramgholizadeh/cloudflare-tunnel-wizard.git
 cd cloudflare-tunnel-wizard
 ```
 
